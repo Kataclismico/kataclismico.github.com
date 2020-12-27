@@ -45,7 +45,7 @@ links.forEach(function(enlace){
         content.classList.add("animate__animated");
         //Vídeo 9Timers
         setTimeout(function(){
-            location.href="/";
+            location.href="/boletines";
         },2000);                  //Milisegunos
         //setInterval(function(){
             //Location.href="/";
