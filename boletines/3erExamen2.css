@@ -1,0 +1,11 @@
+body{background: green;}
+li{margin: 1px;}
+h1{text-align: center;}
+h2{text-align: center;}
+h3{margin: 1px;}
+input{width:5px;
+      height:5px;}
+p{display: inline-block;
+  margin: 1px;}
+.rad{border-radius:10px;}
+.col{background-color: black;}

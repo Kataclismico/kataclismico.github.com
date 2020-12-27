@@ -1,0 +1,54 @@
+html {box-sizing: border-box;
+      font-size: 62.5%;}
+
+body{background: #F0C27B;  /* fallback for old browsers */
+     background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);  /* Chrome 10-25, Safari 5.1-6 */
+     background: linear-gradient(to right, #4B1248, #F0C27B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+
+.flex{display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;}
+
+.card {background-color: white;
+  width: 326px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow:2px 2px 4px rgba(0, 0, 0, 0.7);}
+
+.card-header{width: 100%;
+             display: block;}
+
+.card-body{display: flex;
+           flex-direction: column;
+           align-items: center;
+           border-bottom: 1px solid rgba(153,153,153,0.383);}
+
+.card-body-img{border: 5px solid white;
+               border-radius: 100%;
+               margin-top: -100px;}
+
+.card-body-title{margin-top: 2rem;
+                 font-size: 1.8rem;}
+
+span{/*color: var(--dark-gray);*/
+     font-weight: 400;} 
+
+.card-body-text{/*color: var(--dark-gray);*/
+                font-size: 1.6rem;
+                margin-top: 0;
+                margin-bottom: 2rem;}
+
+.card-footer{display: flex;
+             justify-content: space-around;
+             background: silver;}
+
+
+.card-footer-social{text-align: center;
+                    margin-top: 2rem;
+                    margin-bottom: 2rem; }
+
+p{letter-spacing: 1px;}
+
+.color{background: blue;}
+/*# sourceMappingURL=estilos.css.map */

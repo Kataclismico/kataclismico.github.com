@@ -1,0 +1,18 @@
+body{height:120vh;}
+/*div{background:red;
+    width:200px;
+    height:100px;
+    position:relative;
+    bottom:100px;
+    right:200px;}*/
+.contenedor-posicionado{position: relative;
+                        width:800px;
+                        height:600px;
+                        background: blue;
+                        top:200px;}
+.elemento{background:red;
+          width:200px;
+          height:100px;
+          position: sticky;
+          top:100px;
+          right:200px;}

@@ -1,0 +1,6 @@
+div{height: 200px;
+    width: 600px;}
+
+div.content{background-color:yellow;}
+div{background-color:black;}
+.content{background-color:red;}
