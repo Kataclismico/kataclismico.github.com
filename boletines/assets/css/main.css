@@ -146,7 +146,8 @@ th{display: none;}
         width: 30%;}
 
 .text{float: top;
-      width: 50%;}
+      width: 50%;
+      text-align: right;}
 
 
 
