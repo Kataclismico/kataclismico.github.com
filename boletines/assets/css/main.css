@@ -146,7 +146,8 @@ th{display: none;}
         width: 30%;}
 
 .text{width: 60%;
-display: inline-block;}
+display: inline-block;
+margin-right: auto;}
 
 
 
