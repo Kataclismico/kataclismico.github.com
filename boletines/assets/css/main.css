@@ -10,6 +10,8 @@ Dodger Blue:#3590f3;
 Rosa:#d500f9;
 -*/
 
+
+
 /*Rainbow Blue*/
 html{font-family: 'Nunito', sans-serif;}
 
@@ -34,7 +36,7 @@ a:focus{background: red;}
            display:flex;
            align-items: center;
            justify-content: center;
-           margin: 5px;}   
+           margin: 0px;}   
 
 .content{max-width:960px;
          max-height:1200px;
