@@ -145,7 +145,7 @@ th{display: none;}
 .imagen{display:inline-block;
         width: 30%;}
 
-.text{display: block;
+.text{float: top;
       width: 50%;}
 
 
