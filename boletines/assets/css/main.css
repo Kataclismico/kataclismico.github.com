@@ -143,7 +143,9 @@ th{display: none;}
 /*td{border: solid 0px;}*/
 
 .imagen{display:inline-block;
-        width: 30%;}
+        width: 30%;
+        float: left;
+        margin-right: 1em;}
 
 .text{width: 60%;
 display: inline-block;
