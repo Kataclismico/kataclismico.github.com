@@ -34,7 +34,7 @@ a:focus{background: red;}
            display:flex;
            align-items: center;
            justify-content: center;
-           margin: 10px;}   
+           margin: 5px;}   
 
 .content{max-width:960px;
          max-height:1200px;
@@ -47,7 +47,8 @@ a:focus{background: red;}
          position: relative;
          /*font-size: 24px;*/
          overflow-y: scroll;
-         overflow-x: hidden;}
+         overflow-x: hidden;
+         padding: 5px;}
 
 .content{padding: 1em;}
 
