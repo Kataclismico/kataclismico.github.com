@@ -52,8 +52,6 @@ a:focus{background: red;}
          overflow-x: hidden;
          padding: 5px;}
 
-.content{padding: 1em;}
-
 td{display: block;
    width: 100%;
    color:#00F260;}
@@ -138,7 +136,7 @@ th{display: none;}
 
 /*Mínima Altura*/
 /*Mínomo para arriba*/
-@media(min-height:600px){.content{height: 550px;}
+@media(min-height:300px){.content{height: 100%;}
                          td{color:#0575E6;}}
 
 /*#boton-pago{background-color:yellow;}*/
